@@ -1,0 +1,4 @@
+@EndUserText.label: 'Empresa'
+define service ZSD_EXABGI_EMPRESA {
+  expose ZC_EXABGI_EMPRESA as Empresa;
+}
